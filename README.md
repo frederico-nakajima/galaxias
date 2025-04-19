@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/Desktop (2).png" width="100%">
+  <img alt="imagens das galaxias" src="assets/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
